@@ -5,7 +5,7 @@
       <img class="w10Logo" src="/assets/w10Logo.svg">
     </div>
     <div class="center-Content overlay-Right">
-      <a class="website-Link" href="http://costa.w10.world">Visit Costa Coffee Drinkware</a>
+      <a class="website-Link" href="http://costa.w10.world/c/our-range">Visit Costa Coffee Drinkware</a>
       <img class="costaCoffee" src="/assets/costaCoffee.svg">
       <img class="costaCoffee-cup" src="/assets/costaCoffee-cup.svg">
     </div>
